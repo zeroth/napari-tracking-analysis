@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include src/napari-tracking-analysis/ui/*.ui
+include src/napari-tracking-analysis/ui/icons/*.svg
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]

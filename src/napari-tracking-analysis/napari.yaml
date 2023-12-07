@@ -1,0 +1,11 @@
+name: napari-tracking-analysis
+display_name: Intensity Step Detection
+contributions:
+  commands:
+    - id: napari-tracking-analysis.plugin_widget
+      python_name: napari_tracking_analysis._plugin_widget:PluginWidget
+      title: Step Detection
+
+  widgets:
+    - command: napari-tracking-analysis.plugin_widget
+      display_name: Step Detection

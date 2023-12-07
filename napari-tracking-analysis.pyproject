@@ -1,0 +1,29 @@
+{
+    "files": [
+        "src/napari_tracking_analysis/base_widgets/__init__.py",
+        "src/napari_tracking_analysis/base_widgets/base_widget.py",
+        "src/napari_tracking_analysis/base_widgets/plots.py",
+        "src/napari_tracking_analysis/base_widgets/sliders.py",
+        "src/napari_tracking_analysis/tracking_widget/tracking_widget.py",
+        "src/napari_tracking_analysis/tracking_widget/__init__.py",
+        "src/napari_tracking_analysis/segmentation_widget/__init__.py",
+        "src/napari_tracking_analysis/segmentation_widget/segmentation_widget.py",
+        "src/napari_tracking_analysis/step_analysis_widget/__init__.py",
+        "src/napari_tracking_analysis/step_analysis_widget/stepanalysis_widget.py",
+        "src/napari_tracking_analysis/filter_widget/__init__.py",
+        "src/napari_tracking_analysis/filter_widget/property_filter_widget.py",
+        "src/napari_tracking_analysis/ui/tracking_widget.ui",
+        "src/napari_tracking_analysis/ui/h_range_slider.ui",
+        "src/napari_tracking_analysis/ui/segmentation_widget.ui",
+        "src/napari_tracking_analysis/ui/filter_list_item_widget.ui",
+        "src/napari_tracking_analysis/ui/base_widget.ui",
+        "src/napari_tracking_analysis/ui/step_analysis_widget.ui",
+        "src/napari_tracking_analysis/ui/step_analysis_result_widget.ui",
+        "src/napari_tracking_analysis/ui/histogram_bin_control_widget.ui",
+        "src/napari_tracking_analysis/ui/walking_average.ui",
+        "src/napari_tracking_analysis/__init__.py",
+        "src/napari_tracking_analysis/_plugin_widget.py",
+        "__main__.py",
+        "src/napari_tracking_analysis/napari.yaml"
+    ]
+}
